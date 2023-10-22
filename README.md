@@ -40,12 +40,3 @@
      </div>
   </body>
 </html>
-
-<script>
-  
-</script>
-
-**// About **
-
-
-
