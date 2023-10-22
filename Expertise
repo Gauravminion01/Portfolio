@@ -1,0 +1,49 @@
+<html>
+    <head>
+    <title>Expertise of work</title>
+    <link rel="stylesheet" href="portfolio2.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        
+        <nav>
+          <ul>
+            <li><a href="portfolio2.html">Home</a></li>
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/expertise.html">Expertise</a></li>
+            <li><a href="/cv.html">CV</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="main">
+
+       <div class="expertise">
+        <h1>Experiences:-</h1>
+            <li>After completed diploma i have joined "Job Today HR Services" as a telecaller, where my role was to invite the candidate for interview/placement.</li>    
+            <img src="hrservice.jpeg">
+
+            <br>
+            <br>
+            <br>
+            <li>I have joined concentrix on 25th May 2021 as a customer support executive 
+                and within 1 year of journey with concentrix i learnt that how to talk with customers 
+                and many more about customer handlng. Within a year i
+                 got promoted as a escalation desk advisor.</li>              
+                <img src="cnx.jpg" height="175px" width="600px">
+               
+            <br>
+            <br>
+            <br>
+              <li>On 1st of August 2022 i have joined udaan as a claim specialist in 
+                    udaan headquarter, There are supportive team leaders and good working environment 
+                    i have already completed &ensp; &ensp; my 1 year with udaan as well. This is very good experience with 
+                    udaan in this 1 year.</li>
+                    <img src="udaan.jpeg" width="600px" height="150px">
+                  </div>
+    </div>
+    </div>
+  </body>
+</html>
